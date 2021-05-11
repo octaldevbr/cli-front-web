@@ -1,8 +1,5 @@
 {
     "package": {
-        "scripts": {
-            "start:build": "serve -s build -l 4000"
-        },
         "dependencies": {
             "@octaldev/react-flatlist": "0.0.7",
             "@octaldev/react-modal": "0.0.5",
