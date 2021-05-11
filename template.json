@@ -13,7 +13,7 @@
             "styled-components": "^5.0.1"
         },
         "scripts": {
-          "start:build": "serve -s build -l 4000"
+            "start:build": "serve -s build -l 4000"
         }
     }
 }
