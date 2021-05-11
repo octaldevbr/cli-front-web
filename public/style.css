@@ -1,0 +1,21 @@
+#root, body, html {
+    padding: 0 !important;
+    margin: 0 !important;
+    height: 100%;
+}
+
+* {
+    transition: all 0.3s;
+}
+
+p, a, h1, h2, h3, h4, h5, h6, span, button, div, ul, li {
+    font-family: sans-serif;
+}
+
+button:active, button:focus, button:hover {
+    outline: none;
+}
+
+button:hover {
+    opacity: 0.75;
+}
